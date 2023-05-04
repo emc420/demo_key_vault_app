@@ -1,0 +1,4 @@
+azure-identity
+azure-mgmt-resource
+azure-keyvault-secrets
+msgraph-core
